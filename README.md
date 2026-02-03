@@ -1,6 +1,6 @@
 # Decode - FTC Team Code Repository
 
-This repository contains the code for the Decode FIRST Tech Challenge (FTC) team for the 2025 season.
+This repository contains the code for the Lumens Cubed (30393) FIRST Tech Challenge (FTC) team for the 2025-2026 season.
 
 ## Contents
 
@@ -19,22 +19,20 @@ TeamCode/
                 └── firstinspires/
                     └── ftc/
                         └── teamcode/
-                            ├── DecodeTeleOp.java      # TeleOp (driver-controlled) code
-                            └── DecodeAutonomous.java  # Autonomous code
+                            ├──  # TeleOp (driver-controlled) code
+                            └──  # Autonomous code
 ```
 
 ## OpModes
 
 ### TeleOp
 - **DecodeTeleOp**: Main teleoperation program for driver-controlled period
-  - Tank drive control using gamepad joysticks
+  - Mecanum drive control using gamepad joysticks
   - Real-time telemetry display
 
 ### Autonomous
 - **DecodeAutonomous**: Main autonomous program for the autonomous period
-  - Encoder-based movement
-  - Example autonomous routine included
-
+  - Pedro Pathing used
 ## Getting Started
 
 1. Clone this repository
@@ -53,4 +51,4 @@ Make sure to configure your robot's hardware to match these names in the Robot C
 
 ## Season
 
-2025 Season - Decode Team
+2025-2026 Season - Lumens Cubed (30393)
