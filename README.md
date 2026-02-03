@@ -1,4 +1,4 @@
-# Decode - FTC Team Code Repository
+# Lumens Cubed - FTC Team Code Repository
 
 This repository contains the code for the Lumens Cubed (30393) FIRST Tech Challenge (FTC) team for the 2025-2026 season.
 
