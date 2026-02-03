@@ -19,8 +19,11 @@ TeamCode/
                 └── firstinspires/
                     └── ftc/
                         └── teamcode/
-                            ├──  # TeleOp (driver-controlled) code
-                            └──  # Autonomous code
+                            ├── MecanumLimelightRelative # TeleOp (driver-controlled) code
+                            ├── Red 12 # Autonomous code
+                            ├── Red 9 # Autonomous code
+                            ├── Blue 12 # Autonomous code
+                            └── Blue 9 # Autonomous code etc...
 ```
 
 ## OpModes
